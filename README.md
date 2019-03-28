@@ -19,12 +19,31 @@ Example of adding marching ants selection to the edges of the image.
 https://github.com/izotx/JMCMarchingAnts
 
 https://github.com/Krisiacik/ImageViewer
+
 https://github.com/BeauNouvelle/FaceAware
+
 https://github.com/dkalaitzidis/SwiftyAvatar
+
 https://github.com/gkye/ComplimentaryGradientView
 
 https://github.com/makomori/Sharaku
+
 https://github.com/scihant/CTPanoramaView
 
 
 https://github.com/vsouza/awesome-ios#image
+
+
+
+TIKTOK Video PAger
+
+https://github.com/entotsu/VideoPager
+
+YOUTUBE LIKE VIDEO MINIMIZE
+https://github.com/andrewboryk/ABMediaView
+
+
+Video Player.
+https://github.com/VeinGuo/VGPlayer
+https://github.com/jamesdouble/JDVideoKit
+https://github.com/josejuanqm/VersaPlayer
